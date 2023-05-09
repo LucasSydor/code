@@ -260,7 +260,7 @@ header {
 }
 
 .btn {
-    background: var(--light-color);
+    background: var(--main-color);
     padding: 15px 20px;
     color: var(--text-color);
     text-transform: uppercase;
